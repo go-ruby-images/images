@@ -1,0 +1,4 @@
+github.com/go-images/images v0.0.0-20260702213524-ea366b42f216 h1:JZc6nR7Zd9lidDSwVgt8NuzFt7M8lxdHsUIh1QYDJdA=
+github.com/go-images/images v0.0.0-20260702213524-ea366b42f216/go.mod h1:nWwQCf77xG1GhaSD3rvlp7FNjjDhz47vrztyeBvIerk=
+golang.org/x/image v0.43.0 h1:FLxcP4ec2350nTfOC8ysKtqYSIFbk/QGjw1ZHNP4tsY=
+golang.org/x/image v0.43.0/go.mod h1:rrpelvGFt+kLPAjPM4HeWPgrl0FtafueU//e5N0qk/Q=

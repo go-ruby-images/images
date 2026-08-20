@@ -1,5 +1,13 @@
+github.com/go-gfx/gfx v0.5.1 h1:1SLw9Nnb7rpO+S+1feAi0x2auPQw2tLv89z1D5WMPlo=
+github.com/go-gfx/gfx v0.5.1/go.mod h1:bFt/MWyYWRU3Ic9IaB8XOC9KLMMHRRmahMk4FaIGK7g=
 github.com/go-images/images v0.0.0-20260702213524-ea366b42f216 h1:JZc6nR7Zd9lidDSwVgt8NuzFt7M8lxdHsUIh1QYDJdA=
 github.com/go-images/images v0.0.0-20260702213524-ea366b42f216/go.mod h1:nWwQCf77xG1GhaSD3rvlp7FNjjDhz47vrztyeBvIerk=
+github.com/go-images/images v0.0.0-20260815210351-4a50ef5ab734 h1:nU+MGeyJzidGvCtx+HLZgHKG9GpUUomkQvB5nXLRWoc=
+github.com/go-images/images v0.0.0-20260815210351-4a50ef5ab734/go.mod h1:ObuOBKDEidGX0LqLKY/5nqj7JVN/hsCzHMAJd0TNc0k=
+github.com/sergeymakinen/go-bmp v1.0.0 h1:SdGTzp9WvCV0A1V0mBeaS7kQAwNLdVJbmHlqNWq0R+M=
+github.com/sergeymakinen/go-bmp v1.0.0/go.mod h1:/mxlAQZRLxSvJFNIEGGLBE/m40f3ZnUifpgVDlcUIEY=
+github.com/sergeymakinen/go-ico v1.0.0 h1:uL3khgvKkY6WfAetA+RqsguClBuu7HpvBB/nq/Jvr80=
+github.com/sergeymakinen/go-ico v1.0.0/go.mod h1:wQ47mTczswBO5F0NoDt7O0IXgnV4Xy3ojrroMQzyhUk=
 golang.org/x/image v0.43.0 h1:FLxcP4ec2350nTfOC8ysKtqYSIFbk/QGjw1ZHNP4tsY=
 golang.org/x/image v0.43.0/go.mod h1:rrpelvGFt+kLPAjPM4HeWPgrl0FtafueU//e5N0qk/Q=
 golang.org/x/image v0.44.0 h1:+tDekMZED9+LrtB3G5xzRggpVh9CARjZqROla3R3R+I=

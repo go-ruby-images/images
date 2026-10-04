@@ -1,6 +1,6 @@
 module github.com/go-ruby-images/images
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-images/images v0.0.0-20260926211103-8ace06e0df2f

@@ -36,6 +36,8 @@ github.com/go-images/images v0.1.0 h1:KbbxTUpCbddpf6UsMFQetm75xsRXREyUjX0CIvd8Yv
 github.com/go-images/images v0.1.0/go.mod h1:+8V6BRjITiKEZyyvZZm//bQ8Pdr5rgHgLEElkVOMm40=
 github.com/go-images/images v0.3.0 h1:uj0bNC9HTvMZF4HvHf5XNVlXYB6zAr8uAdbieTMzuvE=
 github.com/go-images/images v0.3.0/go.mod h1:ep6TePdcpU6ESk2yHuapG9ybfznNsxgHOFOeRKsinZ8=
+github.com/go-images/images v0.3.1 h1:0ww5CLtVxtpmcBCK/jNCuET+bn2/suHhHs0HcMh/1yI=
+github.com/go-images/images v0.3.1/go.mod h1:zlQUIhHytf5zlwnTHOEBZBIRgVnBqH+6+ceQd92ASak=
 github.com/go-images/jpeg v0.2.0 h1:dn55cTczPdOJf+NQq+sETCFeov/KeP1haF1ES+FJa+4=
 github.com/go-images/jpeg v0.2.0/go.mod h1:2C1DevAM+HaQlysTLbSdyol8X/RlvmsXmHAXs9teAqo=
 github.com/go-images/jpeg v0.3.0 h1:i6CGNbN2YNEz8stBI0hXjN6UwVGwQ9zCh8LvFeD8fHg=
@@ -50,6 +52,8 @@ github.com/go-images/png v0.1.0 h1:OI4yHotS0lA75sLnG2FTL2Vooh4PWpVWEidre1msSe0=
 github.com/go-images/png v0.1.0/go.mod h1:V9vaEbr2nrZGorUWn4xv9F24Yuu1/qLVtmailM9GBVo=
 github.com/go-images/png v0.2.0 h1:RFPkHPuRYRvrDJol/Mmn9P1DSaLV8VPmEQ8BkZoCpL0=
 github.com/go-images/png v0.2.0/go.mod h1:g1qayDmWLClHo9R5KQ+RrcUNTBcaA4c1thaIfEoS3vg=
+github.com/go-simd/floats v0.34.0 h1:vBTP5hvs9PPTSBShma7t+U6SjobP+YxZ3mSMTz7BUds=
+github.com/go-simd/floats v0.34.0/go.mod h1:Aq5a6oY5pUqm9Hpi+iV2nrNmaaUb0rwHvUHIerXWSvA=
 github.com/go-simd/highway v0.0.14 h1:O3HPG00qgLGlrQyYBlMGyLYsuzZrqHA4+XNptPjV5gs=
 github.com/go-simd/highway v0.0.14/go.mod h1:t5XBPxqa10Lnj0frQS7Ur0JaN+/CckEmm5HXrqBDxXA=
 github.com/sergeymakinen/go-bmp v1.0.0 h1:SdGTzp9WvCV0A1V0mBeaS7kQAwNLdVJbmHlqNWq0R+M=

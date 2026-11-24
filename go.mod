@@ -3,7 +3,7 @@ module github.com/go-ruby-images/images
 go 1.27.1
 
 require (
-	github.com/go-images/images v0.3.0
+	github.com/go-images/images v0.3.1
 	golang.org/x/image v0.48.0
 )
 
@@ -15,6 +15,7 @@ require (
 	github.com/go-images/jpeg v0.3.0 // indirect
 	github.com/go-images/jpeg2000 v0.14.0 // indirect
 	github.com/go-images/png v0.2.0 // indirect
+	github.com/go-simd/floats v0.34.0 // indirect
 	github.com/go-simd/highway v0.0.14 // indirect
 	github.com/sergeymakinen/go-bmp v1.0.0 // indirect
 	github.com/sergeymakinen/go-ico v1.0.0 // indirect
